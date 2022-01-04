@@ -1,0 +1,4 @@
+overwrite = False
+output_ext = 'csv'
+inputfile1 = 'C:/Users/S1024501/GitHub/Syngenta-scripts/featurize_reactants/Examples/1_LDT-000037_Selected_Reactions.xlsx'
+inputfile2 = 'C:/Users/S1024501/GitHub/Syngenta-scripts/featurize_reactants/Examples/2__selection_0_LDT-000037_20211014.csv'

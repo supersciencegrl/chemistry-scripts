@@ -1,0 +1,2 @@
+('C:\\Users\\S1024501\\GitHub\\Syngenta-scripts\\featurize_reactants\\build\\featurize_reactants\\PYZ-00.pyz',
+ [])
