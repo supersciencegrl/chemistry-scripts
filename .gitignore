@@ -1,6 +1,7 @@
 # Local exemptions
 ren_files/Originals/
 ren_files/LIB*
+featurize_reactants/Examples/**
 
 
 # Byte-compiled / optimized / DLL files
