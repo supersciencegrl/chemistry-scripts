@@ -1,3 +1,9 @@
+__author__ = "Syngenta GBJH"
+__copyright__ = "Copyright 2020, 2022"
+__version__ = "1.1"
+__email__ = "nessa.carson@syngenta.com"
+__status__ = "Prototype"
+
 import glob
 import os
 import re
@@ -10,10 +16,12 @@ sg.theme('Green')
 user = os.getlogin().lower()
 if user == 's1020478':
     username = 'aledgard'
+elif user == 's1077007':
+    username = 'smutton'
 elif user == 's1024501':
     username = 'ncarson'
 else:
-    sg.popup_get_text('What is your NMR username? eg: \'ncarson\' ')
+    sg.popup_get_text(f'What is your NMR username? eg: \'ncarson\'\nEmail {__email__} to have your user account added for faster login.')
 
 # Debug parameters 
 #username = 'aledgard'
