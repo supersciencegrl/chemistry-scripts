@@ -1,6 +1,6 @@
 __author__ = "Syngenta GBJH"
 __copyright__ = "Copyright 2022"
-__version__ = "1.0"
+__version__ = "1.0.1"
 __email__ = "nessa.carson@syngenta.com"
 __status__ = "Production"
 
@@ -20,7 +20,7 @@ def import_dataframe(inputfile):
     return df
 
 def openfile(filename):
-    _ = os.system(f'start excel {outputfile}')
+    _ = os.system(f'start excel "{filename}"')
 
 def saveParms():
     with open(parmfile, 'wt') as fout:
@@ -107,7 +107,8 @@ if GUI:
                     sg.PopupError(f'File {values["filtered"]} does not exist', title='Error')
             elif event in [sg.WIN_CLOSED, 'Escape:27', None, 'Cancel']:
                 window.close()
-                exit()
+                break
+
             # Toggle visibility of output_ext combobox if overwriting filtered inputfile
             elif event == 'overwrite':
                 if values['overwrite']:
@@ -142,10 +143,17 @@ if merge:
 
     output = pd.merge(df, filtered, how='outer', left_on='Product1_SMILES', right_on='SMILES')
     output.reset_index()
-    if output_ext_used == 'csv':
-        output.to_csv(outputfile, index=False)
-    else:
-        output.to_excel(outputfile, index=False)
+    outputwritten = False
+    while not outputwritten:
+        try:
+            if output_ext_used == 'csv':
+                output.to_csv(outputfile, index=False)
+                outputwritten = True
+            else:
+                output.to_excel(outputfile, index=False)
+                outputwritten = True
+        except PermissionError:
+            sg.PopupError(f'Please close {outputfile} to continue.', title='error')
 
     # Final report
     layout = [  [sg.Text('Merge completed successfully!')],
