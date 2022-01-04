@@ -1,0 +1,117 @@
+ALIPHATICS
+fluoromethane				-		-271.9		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+fluoroethane				-		-213		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+1-fluorobutane				-		-219		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+tert-butyl fluoride			-		-132		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+PTFE					-		-122(CF2)	https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+allyl fluoride				-		-216.7		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+benzyl fluoride				-		-206.4		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+trichlorofluoromethane			ref		0.00		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+fluoroacetonitrile			ref		-251		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+fluoroform				-		-78.6		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+chlorotrifluoromethane			ref		-28.6		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+trifluoroacetic acid			ref		-76.55		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+trifluoromethanesulfonic acid		-		-78.8		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+1,1,1-trifluoroethane			-		-61.7		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+perfluorobutane				-		-82(CF3)	https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+perfluorobutane				-		-128(CF2)	https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+hexafluoroacetone			ref		-84.6		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+carbon tetrafluoride			ref		-125.3		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+
+CYCLOALKANES
+fluorocyclohexane			-		-165.5		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+1,1-difluorocyclohexane			-		-88(axial)	https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+1,1-difluorocyclohexane			-		-104(equatorial)https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+
+OLEFINS
+fluoroethane				-		-114		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+(Z)-1-fluoroprop-2-ene			-		-129.6		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+tetrafluoroethene			-		-135		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+
+ALKYNES
+1,2-difluoroacetylene			-		-95		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+1,1,1,4,4,4-trifluorobut-2-yne		-		-57		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+
+CARBONYLS & IMINES
+acryloyl fluoride			-		23.9		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+trifluoroacetyl fluoride		-		15(AcylF)	https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+(E)-N-tert-butylbenzimidoyl fluoride	-		67		JOC 67, 416
+(Z)-N-tert-butylbenzimidoyl fluoride	-		39		JOC 67, 416
+
+BENZENES
+fluorobenzene				d8-PhMe		-115.2		JACS 2011, 133, 11482
+4-methoxyfluorobenzene			d8-PhMe		-126.8		JACS 2011, 133, 11482
+3-nitrofluorobenzene			d8-PhMe		-112.0		JACS 2011, 133, 11482
+methyl 4-fluorobenzoate			d8-PhMe		-108.6		JACS 2011, 133, 11482
+benzyl 4-fluorobenzoate			CDCl3		-105.56		JACS 2013, 135, 16292
+4-fluorobenzaldehyde			d8-PhMe		-106.1		JACS 2011, 133, 11482
+4-fluorobenzotrifluoride		d8-PhMe		-109.7(ArylF)	JACS 2011, 133, 11482
+3,5-dichlorofluorobenzene		d8-PhMe		-111.2		JACS 2011, 133, 11482
+4-nitrofluorobenzene			CDCl3		-106.2		JACS 2011, 133, 11482
+4-fluoroacetophenone			CD3CN		-105.37		JACS 2013, 135, 16292
+4-fluorobenzophenone			CDCl3		-108.7		JACS 2011, 133, 11482
+4-fluorobiphenyl			CDCl3		-117.2		JACS 2011, 133, 11482
+4-fluorobenzonitrile			CD3CN		-102.43		JACS 2013, 135, 16292
+4-fluorobenzamide			CD3CN		-105.7		JACS 2011, 133, 11482
+4-fluoro-N,N-dimethylbenzamide		CDCl3		-111.2		JACS 2011, 133, 11482
+3-fluoro-N,N-dimethylaniline		CDCl3		-113.2		JACS 2011, 133, 11482
+ethyl 4-fluoro-3-methoxycinnamate	CDCl3		-131.7		JACS 2011, 133, 11482
+4-tert-butylfluorobenzene		CD3CN		-120.30		JACS 2013, 135, 16292
+3-deoxy-3-fluorooestrone		CDCl3		-118.5		JACS 2011, 133, 11482
+benzotrifluoride			ref		-63.72		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+potassium 4-fluorophenyltrifluoroborate	CD3CN		-142.5(ArylBF3)	JACS 2013, 135, 16292
+potassium 4-fluorophenyltrifluoroborate	CD3CN		-119.85(ArylF)	JACS 2013, 135, 16292
+4-fluorophenyl phenyl ether		CD3CN		-120.19		JACS 2013, 135, 16292
+3-fluorophenyl benzyl ether		CDCl3		-111.7		J Chem Soc, Perkin Trans 1, 1998, 1705
+2-fluorophenyl phenyl ether		CD3CN		-131.04		JACS 2013, 135, 16292
+1,4-difluorobenzene			CD3CN		-121.06		JACS 2013, 135, 16292
+1,3,5-trifluorobenzene			CD3CN		-108.33		JACS 2013, 135, 16292
+hexafluorobenzene			CD3CN		-164.36		JACS 2013, 135, 16292
+
+PYRIDINES
+2-fluoropyridine	372-48-5	d6-DMSO		-65.88		Izv. Akad. Nauk, Ser. Khim., 2016, 1798-1804
+3-fluoropyridine			d6-DMSO		-128.4		Izv. Akad. Nauk, Ser. Khim., 2016, 1798-1804
+4-fluoropyridine			CDCl3		-106.2		JACS 2011, 133, 11482
+3-amino-5-fluoropyridine		CDCl3		-128.34		J Chem Soc, Perkin Trans 1, 1998, 1705
+3,5-difluoropyridine			CDCl3		-124.11		J Chem Soc, Perkin Trans 1, 1998, 1705
+3,5-difluoropyridine N-oxide		CDCl3		-118.2		J Chem Soc, Perkin Trans 1, 1998, 1705
+
+PYRIMIDINES
+5-fluoropyrimidine	675-21-8	CDCl3		-137.4		J Chem Soc, Perkin Trans 1, 1998, 1705
+
+INDOLES
+4-fluoro-N-benzylindole			CDCl3		-123.2		JACS 2011, 133, 11482
+
+QUINOLINES
+8-fluoroquinoline			CDCl3		-126.2		JACS 2011, 133, 11482
+6-fluoroquinoline			CDCl3		-113.0		JACS 2011, 133, 11482
+6-fluoro-O-acetylquinine		CDCl3		-114.2		JACS 2011, 133, 11482
+
+PHENANTHRENES
+9-fluorophenanthrene			CDCl3		-125.4		JACS 2013, 135, 16292
+
+CARBAZOLES
+2-fluoro-N-benzylcarbazole		CDCl3		-115.1		JACS 2011, 133, 11482
+
+DIBENZOFURANS
+4-fluorodibenzofuran			CDCl3		-136.75		JACS 2013, 135, 16292	
+
+OTHERS
+fluorine				ref		422.92		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+hydrogen fluoride			-		40		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+hydrogen fluoride (aqueous)		ref		-204.0		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+potassium fluoride			CD3CN		-78.53		JACS 2013, 135, 16292
+potassium fluoride (aqueous)		ref		-125.3		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+tetramethylammonium fluoride		CHF3		-107		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+tetrabutylammonium fluoride		-		-99		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+tetrabutylammonium bifluoride		-		-148		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+methyl hypofluorite			-		120.3		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+oxygen difluoride			-		249		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+FOOF					-		865		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+fluorosulfonic anhydride		ref		47.2		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+phenylboron difluoride			-		-92		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+boron trifluoride			ref		-131		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+chlorine trifluoride			-		116(axial)	https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+chlorine trifluoride			-		-4(equatorial)	https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+silicon tetrafluoride			ref		-163.3		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm
+sulfur hexafluoride			ref		57.42		https://www2.chem.wisc.edu/areas/reich/nmr/11-f-data.htm

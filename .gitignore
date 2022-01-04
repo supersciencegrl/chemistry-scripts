@@ -1,3 +1,8 @@
+# Local exemptions
+ren_files/Originals/
+ren_files/LIB*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
