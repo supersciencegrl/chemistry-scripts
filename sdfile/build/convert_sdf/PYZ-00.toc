@@ -1,0 +1,2 @@
+('C:\\Users\\S1024501\\GitHub\\Syngenta-scripts\\sdfile\\build\\convert_sdf\\PYZ-00.pyz',
+ [])

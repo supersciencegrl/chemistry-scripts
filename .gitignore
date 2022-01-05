@@ -4,6 +4,7 @@ ren_files/LIB*
 ren_files/dist/aledgard*
 ren_files/dist/LIB*
 featurize_reactants/Examples/**
+sdfile/Examples/**
 
 
 # Byte-compiled / optimized / DLL files
