@@ -10,7 +10,6 @@ import time
 
 import PySimpleGUI as sg
 
-
 # Class of custom errors
 class CustomError(Exception):
     ''' Base class for custom errors '''
