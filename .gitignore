@@ -4,5 +4,6 @@ ren_files/LIB*
 ren_files/dist/aledgard*
 ren_files/dist/LIB*
 featurize_reactants/Examples/**
+library_metadata/LIB*
 sdfile/Examples/**
 mine_params_output.csv
