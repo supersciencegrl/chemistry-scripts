@@ -5,3 +5,4 @@ ren_files/dist/aledgard*
 ren_files/dist/LIB*
 featurize_reactants/Examples/**
 sdfile/Examples/**
+mine_params_output.csv
