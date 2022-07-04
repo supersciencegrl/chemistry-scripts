@@ -4,6 +4,7 @@ import urllib.parse
 
 import pubchempy as pcp
 import pyperclip
+import PySimpleGUI as sg
 
 def nametoCSN(name):
     ''' Converts name or CAS to CSN '''
