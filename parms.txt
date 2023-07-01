@@ -1,0 +1,5 @@
+spectrus = False
+mestrenova = True
+openpdf = False
+sclient = 'C:\Program Files\ACD2019LSM\SPECPROC.exe'
+mclient = 'C:\Program Files\Mestrelab Research S.L\MestReNova\MestReNova.exe'

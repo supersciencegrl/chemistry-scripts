@@ -1,0 +1,14 @@
+# Local exemptions
+build/
+dist/
+Compound_lookup/proxies.dat
+OCR_pdf_tables/filepaths.csv
+ren_files/Originals/
+ren_files/LIB*
+ren_files/dist/aledgard*
+ren_files/dist/LIB*
+featurize_reactants/Examples/**
+library_metadata/LIB-*
+library_metadata/LIB0*
+sdfile/Examples/**
+mine_params_output.csv

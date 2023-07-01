@@ -1,0 +1,4 @@
+overwrite = False
+output_ext = 'csv'
+inputfile1 = ''
+inputfile2 = ''
