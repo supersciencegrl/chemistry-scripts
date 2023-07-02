@@ -23,7 +23,7 @@ def get_proxies(proxy_file):
     else:
         return {}
 
-def auto_pka(cas: str, proxies=proxies, print_output: bool=True) -> Optional[float]:
+def auto_pka(cas: str, proxies={}, print_output: bool=True) -> Optional[float]:
     '''
     Returns the pKa for a substance given its CAS number or chemical name.
 
@@ -35,6 +35,9 @@ def auto_pka(cas: str, proxies=proxies, print_output: bool=True) -> Optional[flo
     Returns:
         Optional[str]: The pKa value as a string, or None if not found in the database.
     '''
+
+    if not proxies:
+        proxies = get_proxies(proxy_file)
 
     cids = pcp.get_cids(cas, 'name')
     try:
@@ -70,4 +73,3 @@ headers = {
     'user-agent': 'Mozilla/5.0 (X11; CentOS; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36',
     'Connection': 'close'}
 proxy_file = Path('proxies.dat')
-proxies = get_proxies(proxy_file)
