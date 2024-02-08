@@ -1,6 +1,6 @@
 '''
-This is heavily derived from Dr Khoi Van (Baylor University)'s script pka_lookup
-(https://github.com/khoivan88/pka_lookup) and adapted for H phrases and Syngenta hazard ratings
+The idea for this came from from Dr Khoi Van (Baylor University)'s script pka_lookup
+(https://github.com/khoivan88/pka_lookup)
 '''
 
 import re

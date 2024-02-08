@@ -3,6 +3,7 @@ A disparate collection of scripts I have used for chemistry labwork and data ana
 
 ## Compound lookup
 - <em>add_pKa.py</em> &ndash; A small script to return pKa from a CAS number or chemical name input. This is very amenable to diversifying to other compound parameters. May be called by other apps. 
+- <em>add_Hphrases.py</em> &ndash; A script to look up H-phrases and P-phrases from a CAS number or chemical name input. 
 
 ### Batch chemical parameters
 A bespoke script created for [@Imekulo](https://twitter.com/Imekulo) on Twitter, to input a list of chemical names or CAS numbers, and receive a table of molecular weights, molecular formulae, empirical formulae, and CAS numbers in return. 
